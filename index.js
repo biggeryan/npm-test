@@ -1,3 +1,5 @@
-export default hello = () => {
-  console.log('hello')
+module.exports = {
+  hello: (something) => {
+    console.log(something || 'hello world')
+  }
 }
