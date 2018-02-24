@@ -1,0 +1,19 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "npm learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biggeryan/npm-test.git"
+  },
+  "author": "biggeryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biggeryan/npm-test/issues"
+  },
+  "homepage": "https://github.com/biggeryan/npm-test#readme"
+}
