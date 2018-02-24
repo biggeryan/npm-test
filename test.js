@@ -1,2 +1,2 @@
-const obj = require('./index')
-obj.hello()
+import hello from './index.js'
+hello()
